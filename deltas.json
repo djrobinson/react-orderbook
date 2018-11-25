@@ -1,0 +1,442 @@
+{
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02806386",
+  "rate": 0.02806386,
+  "amount": 0.03563301,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02872698",
+  "rate": 0.02872698,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02865696",
+  "rate": 0.02865696,
+  "amount": 0.74,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02852144",
+  "rate": 0.02852144,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02850084",
+  "rate": 0.02850084,
+  "amount": 31.35008874,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02846500",
+  "rate": 0.028465,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02841000",
+  "rate": 0.02841,
+  "amount": 94.60632932,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02846000",
+  "rate": 0.02846,
+  "amount": 317.648,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02797617",
+  "rate": 0.02797617,
+  "amount": 2.12221734,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0052",
+  "rate": 0.0052,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02866346",
+  "rate": 0.02866346,
+  "amount": 2.12221734,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0335294",
+  "rate": 0.0335294,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02836295",
+  "rate": 0.02836295,
+  "amount": 25,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02836266",
+  "rate": 0.02836266,
+  "amount": 50,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0281199",
+  "rate": 0.0281199,
+  "amount": 61.5292,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02797617",
+  "rate": 0.02797617,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02766937",
+  "rate": 0.02766937,
+  "amount": 32.1981,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0054",
+  "rate": 0.0054,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.00538271",
+  "rate": 0.00538271,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0053",
+  "rate": 0.0053,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02843612",
+  "rate": 0.02843612,
+  "amount": 25,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02847",
+  "rate": 0.02847,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02853",
+  "rate": 0.02853,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02866346",
+  "rate": 0.02866346,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0335294",
+  "rate": 0.0335294,
+  "amount": 0.6362,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.03353",
+  "rate": 0.03353,
+  "amount": 0.204,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02855018",
+  "rate": 0.02855018,
+  "amount": 115.51608,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02850083",
+  "rate": 0.02850083,
+  "amount": 4.48392,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02843985",
+  "rate": 0.02843985,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02845984",
+  "rate": 0.02845984,
+  "amount": 6.94259974,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02803409",
+  "rate": 0.02803409,
+  "amount": 2.12221734,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0055",
+  "rate": 0.0055,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.028418",
+  "rate": 0.028418,
+  "amount": 14.00586029,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.028475",
+  "rate": 0.028475,
+  "amount": 96.8219,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02850498",
+  "rate": 0.02850498,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02850807",
+  "rate": 0.02850807,
+  "amount": 3.69,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02852",
+  "rate": 0.02852,
+  "amount": 6.8634,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02855978",
+  "rate": 0.02855978,
+  "amount": 2.12221734,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.033526",
+  "rate": 0.033526,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0335294",
+  "rate": 0.0335294,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.03353",
+  "rate": 0.03353,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02831630",
+  "rate": 0.0283163,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02865696",
+  "rate": 0.02865696,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02872846",
+  "rate": 0.02872846,
+  "amount": 0.74,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02855018",
+  "rate": 0.02855018,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02850083",
+  "rate": 0.02850083,
+  "amount": 120,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02852130",
+  "rate": 0.0285213,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02841619",
+  "rate": 0.02841619,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02842946",
+  "rate": 0.02842946,
+  "amount": 17.61814265,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02816002",
+  "rate": 0.02816002,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02816044",
+  "rate": 0.02816044,
+  "amount": 0.71527114,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02834017",
+  "rate": 0.02834017,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02835473",
+  "rate": 0.02835473,
+  "amount": 8.33740638,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02811991",
+  "rate": 0.02811991,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02800815",
+  "rate": 0.02800815,
+  "amount": 33.3375,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.02766937",
+  "rate": 0.02766937,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.0055",
+  "rate": 0.0055,
+  "amount": 0.50995498,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.028529",
+  "rate": 0.028529,
+  "amount": 0,
+  "exchange": "bittrex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "bittrexBTC-ETH0.033526",
+  "rate": 0.033526,
+  "amount": 4.58344789,
+  "exchange": "bittrex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02830001",
+  "rate": 0.02830001,
+  "amount": 0.055859,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02823549",
+  "rate": 0.02823549,
+  "amount": 152.30619312,
+  "exchange": "poloniex"
+}, {
+  "type": "BID_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02826478",
+  "rate": 0.02826478,
+  "amount": 0,
+  "exchange": "poloniex"
+}, {
+  "type": "ASK_UPDATE",
+  "market": "BTC-ETH",
+  "rateString": "poloniexBTC-ETH0.02848320",
+  "rate": 0.0284832,
+  "amount": 12.6874,
+  "exchange": "poloniex"
+}

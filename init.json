@@ -1,0 +1,6009 @@
+{
+  "type": "ORDER_BOOK_INIT",
+  "market": "BTC-ETH",
+  "exchange": "bittrex",
+  "bids": {
+    "bittrexBTC-ETH0.02835387": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02835387,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.02835386": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02835386,
+      "amount": 10
+    },
+    "bittrexBTC-ETH0.02834664": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02834664,
+      "amount": 8.9148594
+    },
+    "bittrexBTC-ETH0.028339": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.028339,
+      "amount": 25
+    },
+    "bittrexBTC-ETH0.02830001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02830001,
+      "amount": 30.188
+    },
+    "bittrexBTC-ETH0.0283": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0283,
+      "amount": 13.99340507
+    },
+    "bittrexBTC-ETH0.02829176": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02829176,
+      "amount": 0.13233013
+    },
+    "bittrexBTC-ETH0.02828892": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02828892,
+      "amount": 0.03888448
+    },
+    "bittrexBTC-ETH0.02828713": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02828713,
+      "amount": 3
+    },
+    "bittrexBTC-ETH0.0282864": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0282864,
+      "amount": 0.31946311
+    },
+    "bittrexBTC-ETH0.02828382": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02828382,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.02828063": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02828063,
+      "amount": 51.04577977
+    },
+    "bittrexBTC-ETH0.0282806": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0282806,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02827317": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02827317,
+      "amount": 7.56222555
+    },
+    "bittrexBTC-ETH0.0282671": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0282671,
+      "amount": 10.9238
+    },
+    "bittrexBTC-ETH0.02826612": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02826612,
+      "amount": 0.02476462
+    },
+    "bittrexBTC-ETH0.02826002": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02826002,
+      "amount": 1.5
+    },
+    "bittrexBTC-ETH0.02826001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02826001,
+      "amount": 2.11784529
+    },
+    "bittrexBTC-ETH0.02825735": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02825735,
+      "amount": 86.78042327
+    },
+    "bittrexBTC-ETH0.02825595": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02825595,
+      "amount": 0.02831255
+    },
+    "bittrexBTC-ETH0.028251": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.028251,
+      "amount": 15.03891807
+    },
+    "bittrexBTC-ETH0.02825": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02825,
+      "amount": 18.9260177
+    },
+    "bittrexBTC-ETH0.02824071": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02824071,
+      "amount": 59.04727077
+    },
+    "bittrexBTC-ETH0.02823817": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02823817,
+      "amount": 55.84413364
+    },
+    "bittrexBTC-ETH0.028235": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.028235,
+      "amount": 0.54368961
+    },
+    "bittrexBTC-ETH0.02823": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02823,
+      "amount": 151.4255
+    },
+    "bittrexBTC-ETH0.02821922": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02821922,
+      "amount": 0.06610401
+    },
+    "bittrexBTC-ETH0.02821445": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02821445,
+      "amount": 0.12754967
+    },
+    "bittrexBTC-ETH0.02820674": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02820674,
+      "amount": 66.77352771
+    },
+    "bittrexBTC-ETH0.0282038": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0282038,
+      "amount": 0.02606688
+    },
+    "bittrexBTC-ETH0.0282012": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0282012,
+      "amount": 0.01768553
+    },
+    "bittrexBTC-ETH0.0282": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0282,
+      "amount": 15.77399241
+    },
+    "bittrexBTC-ETH0.02819523": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02819523,
+      "amount": 0.13973848
+    },
+    "bittrexBTC-ETH0.02818957": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02818957,
+      "amount": 0.49663759
+    },
+    "bittrexBTC-ETH0.02818337": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02818337,
+      "amount": 18.62609292
+    },
+    "bittrexBTC-ETH0.02818277": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02818277,
+      "amount": 0.04107438
+    },
+    "bittrexBTC-ETH0.02818102": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02818102,
+      "amount": 0.04989341
+    },
+    "bittrexBTC-ETH0.02814818": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02814818,
+      "amount": 0.0390789
+    },
+    "bittrexBTC-ETH0.02812979": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02812979,
+      "amount": 0.23649008
+    },
+    "bittrexBTC-ETH0.02811989": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02811989,
+      "amount": 1.23949286
+    },
+    "bittrexBTC-ETH0.02811102": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02811102,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.02810894": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02810894,
+      "amount": 8.81305743
+    },
+    "bittrexBTC-ETH0.0281": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0281,
+      "amount": 19.79774377
+    },
+    "bittrexBTC-ETH0.02809892": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02809892,
+      "amount": 0.259
+    },
+    "bittrexBTC-ETH0.02809581": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02809581,
+      "amount": 0.06600955
+    },
+    "bittrexBTC-ETH0.02809038": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02809038,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02808551": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02808551,
+      "amount": 199.0666
+    },
+    "bittrexBTC-ETH0.0280855": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0280855,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.02806263": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02806263,
+      "amount": 0.03919804
+    },
+    "bittrexBTC-ETH0.0280609": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0280609,
+      "amount": 0.0199005
+    },
+    "bittrexBTC-ETH0.0280513": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0280513,
+      "amount": 0.03621948
+    },
+    "bittrexBTC-ETH0.02801461": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02801461,
+      "amount": 33.4326
+    },
+    "bittrexBTC-ETH0.02801457": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02801457,
+      "amount": 0.13488273
+    },
+    "bittrexBTC-ETH0.02800814": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02800814,
+      "amount": 0.03927429
+    },
+    "bittrexBTC-ETH0.028003": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.028003,
+      "amount": 3.05648704
+    },
+    "bittrexBTC-ETH0.02800006": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02800006,
+      "amount": 0.24208062
+    },
+    "bittrexBTC-ETH0.028": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.028,
+      "amount": 129.27124916
+    },
+    "bittrexBTC-ETH0.02799824": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02799824,
+      "amount": 0.32824108
+    },
+    "bittrexBTC-ETH0.02799": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02799,
+      "amount": 0.8
+    },
+    "bittrexBTC-ETH0.02798427": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02798427,
+      "amount": 0.04067881
+    },
+    "bittrexBTC-ETH0.02798013": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02798013,
+      "amount": 0.02414463
+    },
+    "bittrexBTC-ETH0.02796507": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02796507,
+      "amount": 4.02349126
+    },
+    "bittrexBTC-ETH0.02793953": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02793953,
+      "amount": 0.481
+    },
+    "bittrexBTC-ETH0.02793": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02793,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02792736": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02792736,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.0279264": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0279264,
+      "amount": 0.01861142
+    },
+    "bittrexBTC-ETH0.02792198": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02792198,
+      "amount": 13.81504417
+    },
+    "bittrexBTC-ETH0.0279": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0279,
+      "amount": 20.53084347
+    },
+    "bittrexBTC-ETH0.02789714": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02789714,
+      "amount": 0.06047279
+    },
+    "bittrexBTC-ETH0.02789": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02789,
+      "amount": 7.49692853
+    },
+    "bittrexBTC-ETH0.02787276": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02787276,
+      "amount": 0.04360779
+    },
+    "bittrexBTC-ETH0.02786924": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02786924,
+      "amount": 300
+    },
+    "bittrexBTC-ETH0.02786879": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02786879,
+      "amount": 0.03947067
+    },
+    "bittrexBTC-ETH0.02784997": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02784997,
+      "amount": 100
+    },
+    "bittrexBTC-ETH0.02784213": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02784213,
+      "amount": 0.02514175
+    },
+    "bittrexBTC-ETH0.02783655": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02783655,
+      "amount": 39.56375485
+    },
+    "bittrexBTC-ETH0.02782163": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02782163,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02781468": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02781468,
+      "amount": 0.14264464
+    },
+    "bittrexBTC-ETH0.02781118": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02781118,
+      "amount": 0.35483383
+    },
+    "bittrexBTC-ETH0.0278": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0278,
+      "amount": 20.4693349
+    },
+    "bittrexBTC-ETH0.02778607": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02778607,
+      "amount": 0.17092684
+    },
+    "bittrexBTC-ETH0.02778557": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02778557,
+      "amount": 0.10648849
+    },
+    "bittrexBTC-ETH0.02778322": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02778322,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02778": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02778,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02776641": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02776641,
+      "amount": 0.36879092
+    },
+    "bittrexBTC-ETH0.0277401": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0277401,
+      "amount": 0.0187364
+    },
+    "bittrexBTC-ETH0.02773377": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02773377,
+      "amount": 0.01874068
+    },
+    "bittrexBTC-ETH0.02773014": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02773014,
+      "amount": 0.03966802
+    },
+    "bittrexBTC-ETH0.02772793": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02772793,
+      "amount": 0.01874463
+    },
+    "bittrexBTC-ETH0.02771454": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02771454,
+      "amount": 0.01875368
+    },
+    "bittrexBTC-ETH0.02771049": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02771049,
+      "amount": 0.03751286
+    },
+    "bittrexBTC-ETH0.02771": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02771,
+      "amount": 0.2
+    },
+    "bittrexBTC-ETH0.02770273": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02770273,
+      "amount": 0.01876168
+    },
+    "bittrexBTC-ETH0.02770137": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02770137,
+      "amount": 0.18534407
+    },
+    "bittrexBTC-ETH0.027701": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027701,
+      "amount": 0.01876285
+    },
+    "bittrexBTC-ETH0.02770014": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02770014,
+      "amount": 0.01876344
+    },
+    "bittrexBTC-ETH0.0277": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0277,
+      "amount": 32.33350878
+    },
+    "bittrexBTC-ETH0.02769928": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02769928,
+      "amount": 0.01876402
+    },
+    "bittrexBTC-ETH0.02769432": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02769432,
+      "amount": 0.0181
+    },
+    "bittrexBTC-ETH0.02766937": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02766937,
+      "amount": 30.3339
+    },
+    "bittrexBTC-ETH0.02766936": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02766936,
+      "amount": 0.36804979
+    },
+    "bittrexBTC-ETH0.02764997": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02764997,
+      "amount": 100
+    },
+    "bittrexBTC-ETH0.027615": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027615,
+      "amount": 0.36121673
+    },
+    "bittrexBTC-ETH0.0276148": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0276148,
+      "amount": 0.150861
+    },
+    "bittrexBTC-ETH0.02760893": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02760893,
+      "amount": 1.00624663
+    },
+    "bittrexBTC-ETH0.02760769": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02760769,
+      "amount": 0.11
+    },
+    "bittrexBTC-ETH0.02760427": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02760427,
+      "amount": 0.25071175
+    },
+    "bittrexBTC-ETH0.02760251": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02760251,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.027601": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027601,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0276": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0276,
+      "amount": 22.10610558
+    },
+    "bittrexBTC-ETH0.02759218": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02759218,
+      "amount": 0.03986636
+    },
+    "bittrexBTC-ETH0.027592": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027592,
+      "amount": 0.12535052
+    },
+    "bittrexBTC-ETH0.02757554": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02757554,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02756616": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02756616,
+      "amount": 0.04629733
+    },
+    "bittrexBTC-ETH0.0275123": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0275123,
+      "amount": 0.04350781
+    },
+    "bittrexBTC-ETH0.0275": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0275,
+      "amount": 66.08928506
+    },
+    "bittrexBTC-ETH0.02749783": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02749783,
+      "amount": 0.02728099
+    },
+    "bittrexBTC-ETH0.02745491": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02745491,
+      "amount": 0.04006569
+    },
+    "bittrexBTC-ETH0.02744953": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02744953,
+      "amount": 0.02897233
+    },
+    "bittrexBTC-ETH0.02744": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02744,
+      "amount": 0.201
+    },
+    "bittrexBTC-ETH0.02742833": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02742833,
+      "amount": 0.30121172
+    },
+    "bittrexBTC-ETH0.0274245": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0274245,
+      "amount": 0.02552461
+    },
+    "bittrexBTC-ETH0.02742052": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02742052,
+      "amount": 0.02463738
+    },
+    "bittrexBTC-ETH0.02741492": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02741492,
+      "amount": 0.15955899
+    },
+    "bittrexBTC-ETH0.02740366": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02740366,
+      "amount": 150
+    },
+    "bittrexBTC-ETH0.0274": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0274,
+      "amount": 34.63041341
+    },
+    "bittrexBTC-ETH0.02736647": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02736647,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02735694": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02735694,
+      "amount": 0.14171154
+    },
+    "bittrexBTC-ETH0.02735": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02735,
+      "amount": 0.04
+    },
+    "bittrexBTC-ETH0.027344": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027344,
+      "amount": 0.04
+    },
+    "bittrexBTC-ETH0.02733": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02733,
+      "amount": 0.75247195
+    },
+    "bittrexBTC-ETH0.02731832": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02731832,
+      "amount": 0.04026601
+    },
+    "bittrexBTC-ETH0.02731241": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02731241,
+      "amount": 0.73043719
+    },
+    "bittrexBTC-ETH0.0273": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0273,
+      "amount": 39.90180606
+    },
+    "bittrexBTC-ETH0.02727764": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02727764,
+      "amount": 0.29802008
+    },
+    "bittrexBTC-ETH0.02727": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02727,
+      "amount": 0.025
+    },
+    "bittrexBTC-ETH0.02723916": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02723916,
+      "amount": 0.87896376
+    },
+    "bittrexBTC-ETH0.02723882": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02723882,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02722": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02722,
+      "amount": 0.04
+    },
+    "bittrexBTC-ETH0.02721521": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02721521,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02721503": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02721503,
+      "amount": 0.16876743
+    },
+    "bittrexBTC-ETH0.0272": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0272,
+      "amount": 49.91328771
+    },
+    "bittrexBTC-ETH0.0271981": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0271981,
+      "amount": 0.05483083
+    },
+    "bittrexBTC-ETH0.0271824": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0271824,
+      "amount": 0.04046736
+    },
+    "bittrexBTC-ETH0.02711": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02711,
+      "amount": 1.5
+    },
+    "bittrexBTC-ETH0.02710251": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02710251,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.027101": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027101,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0271": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0271,
+      "amount": 21.55510222
+    },
+    "bittrexBTC-ETH0.0270821": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0270821,
+      "amount": 0.02750259
+    },
+    "bittrexBTC-ETH0.02707554": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02707554,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02706106": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02706106,
+      "amount": 2.13742898
+    },
+    "bittrexBTC-ETH0.02704716": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02704716,
+      "amount": 0.0406697
+    },
+    "bittrexBTC-ETH0.0270301": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0270301,
+      "amount": 0.44
+    },
+    "bittrexBTC-ETH0.02701647": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02701647,
+      "amount": 2.99746117
+    },
+    "bittrexBTC-ETH0.02701515": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02701515,
+      "amount": 0.17851695
+    },
+    "bittrexBTC-ETH0.02701": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02701,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0270001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0270001,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02700003": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02700003,
+      "amount": 20
+    },
+    "bittrexBTC-ETH0.02700002": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02700002,
+      "amount": 0.36944417
+    },
+    "bittrexBTC-ETH0.027": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.027,
+      "amount": 150.2329379
+    },
+    "bittrexBTC-ETH0.02695": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02695,
+      "amount": 0.04
+    },
+    "bittrexBTC-ETH0.0269126": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0269126,
+      "amount": 0.04087304
+    },
+    "bittrexBTC-ETH0.02690857": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02690857,
+      "amount": 0.74139948
+    },
+    "bittrexBTC-ETH0.0269": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0269,
+      "amount": 45.54954628
+    },
+    "bittrexBTC-ETH0.02689787": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02689787,
+      "amount": 0.6875
+    },
+    "bittrexBTC-ETH0.026875": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026875,
+      "amount": 0.04578033
+    },
+    "bittrexBTC-ETH0.02687211": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02687211,
+      "amount": 0.02514018
+    },
+    "bittrexBTC-ETH0.02685391": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02685391,
+      "amount": 0.44611746
+    },
+    "bittrexBTC-ETH0.02684582": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02684582,
+      "amount": 150
+    },
+    "bittrexBTC-ETH0.02681526": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02681526,
+      "amount": 0.18884002
+    },
+    "bittrexBTC-ETH0.0268": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0268,
+      "amount": 23.04792426
+    },
+    "bittrexBTC-ETH0.02675": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02675,
+      "amount": 0.03728972
+    },
+    "bittrexBTC-ETH0.0267": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0267,
+      "amount": 76.74290152
+    },
+    "bittrexBTC-ETH0.026625": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026625,
+      "amount": 0.03746479
+    },
+    "bittrexBTC-ETH0.02661538": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02661538,
+      "amount": 0.19977114
+    },
+    "bittrexBTC-ETH0.026601": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026601,
+      "amount": 18.60948127
+    },
+    "bittrexBTC-ETH0.0266": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0266,
+      "amount": 10.89282371
+    },
+    "bittrexBTC-ETH0.02658553": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02658553,
+      "amount": 0.04293498
+    },
+    "bittrexBTC-ETH0.02657554": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02657554,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02654": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02654,
+      "amount": 15.63715691
+    },
+    "bittrexBTC-ETH0.0265301": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0265301,
+      "amount": 0.44
+    },
+    "bittrexBTC-ETH0.02650251": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02650251,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.02650001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02650001,
+      "amount": 2.94386012
+    },
+    "bittrexBTC-ETH0.0265": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0265,
+      "amount": 51.68819536
+    },
+    "bittrexBTC-ETH0.02647975": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02647975,
+      "amount": 0.48616389
+    },
+    "bittrexBTC-ETH0.02646246": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02646246,
+      "amount": 0.07911823
+    },
+    "bittrexBTC-ETH0.0264432": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0264432,
+      "amount": 0.3122778
+    },
+    "bittrexBTC-ETH0.02643449": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02643449,
+      "amount": 0.58673997
+    },
+    "bittrexBTC-ETH0.02643018": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02643018,
+      "amount": 0.63133987
+    },
+    "bittrexBTC-ETH0.02641549": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02641549,
+      "amount": 0.21134693
+    },
+    "bittrexBTC-ETH0.0264": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0264,
+      "amount": 15.62193805
+    },
+    "bittrexBTC-ETH0.02639667": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02639667,
+      "amount": 0.4359483
+    },
+    "bittrexBTC-ETH0.026375": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026375,
+      "amount": 0.03781991
+    },
+    "bittrexBTC-ETH0.0263275": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0263275,
+      "amount": 0.35773224
+    },
+    "bittrexBTC-ETH0.0263": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0263,
+      "amount": 15.76857099
+    },
+    "bittrexBTC-ETH0.02628017": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02628017,
+      "amount": 3.37646728
+    },
+    "bittrexBTC-ETH0.02625": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02625,
+      "amount": 0.038
+    },
+    "bittrexBTC-ETH0.02621561": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02621561,
+      "amount": 0.22360629
+    },
+    "bittrexBTC-ETH0.0262": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0262,
+      "amount": 18.0564187
+    },
+    "bittrexBTC-ETH0.02613": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02613,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.026125": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026125,
+      "amount": 0.03818182
+    },
+    "bittrexBTC-ETH0.02611102": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02611102,
+      "amount": 0.25
+    },
+    "bittrexBTC-ETH0.0261": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0261,
+      "amount": 15.91276977
+    },
+    "bittrexBTC-ETH0.0260911": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0260911,
+      "amount": 0.07646286
+    },
+    "bittrexBTC-ETH0.02601572": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02601572,
+      "amount": 0.23659053
+    },
+    "bittrexBTC-ETH0.0260142": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0260142,
+      "amount": 0.02049894
+    },
+    "bittrexBTC-ETH0.02600645": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02600645,
+      "amount": 0.85550195
+    },
+    "bittrexBTC-ETH0.026001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026001,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.026": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.026,
+      "amount": 109.90202605
+    },
+    "bittrexBTC-ETH0.02596054": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02596054,
+      "amount": 0.1926
+    },
+    "bittrexBTC-ETH0.02594679": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02594679,
+      "amount": 0.76888124
+    },
+    "bittrexBTC-ETH0.0259": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0259,
+      "amount": 16.26287164
+    },
+    "bittrexBTC-ETH0.02589787": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02589787,
+      "amount": 0.6875
+    },
+    "bittrexBTC-ETH0.025888": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025888,
+      "amount": 0.15
+    },
+    "bittrexBTC-ETH0.025875": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025875,
+      "amount": 0.03855072
+    },
+    "bittrexBTC-ETH0.02584995": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02584995,
+      "amount": 0.4
+    },
+    "bittrexBTC-ETH0.02581584": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02581584,
+      "amount": 0.2503435
+    },
+    "bittrexBTC-ETH0.0258": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0258,
+      "amount": 17.44598245
+    },
+    "bittrexBTC-ETH0.02576959": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02576959,
+      "amount": 0.03096673
+    },
+    "bittrexBTC-ETH0.02575": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02575,
+      "amount": 0.03873786
+    },
+    "bittrexBTC-ETH0.02570001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02570001,
+      "amount": 0.259
+    },
+    "bittrexBTC-ETH0.0257": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0257,
+      "amount": 16.27539717
+    },
+    "bittrexBTC-ETH0.02564999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02564999,
+      "amount": 3.39515499
+    },
+    "bittrexBTC-ETH0.025625": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025625,
+      "amount": 0.03892683
+    },
+    "bittrexBTC-ETH0.02561596": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02561596,
+      "amount": 0.2649118
+    },
+    "bittrexBTC-ETH0.0256": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0256,
+      "amount": 17.19722991
+    },
+    "bittrexBTC-ETH0.02559455": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02559455,
+      "amount": 2.37101267
+    },
+    "bittrexBTC-ETH0.02558272": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02558272,
+      "amount": 1.12053861
+    },
+    "bittrexBTC-ETH0.025556": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025556,
+      "amount": 0.17362261
+    },
+    "bittrexBTC-ETH0.0255": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0255,
+      "amount": 15.61686981
+    },
+    "bittrexBTC-ETH0.02546101": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02546101,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.0254351": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0254351,
+      "amount": 1.31727625
+    },
+    "bittrexBTC-ETH0.02541607": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02541607,
+      "amount": 0.28034496
+    },
+    "bittrexBTC-ETH0.0254": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0254,
+      "amount": 15.58072079
+    },
+    "bittrexBTC-ETH0.025375": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025375,
+      "amount": 0.03931034
+    },
+    "bittrexBTC-ETH0.0253": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0253,
+      "amount": 16.37930965
+    },
+    "bittrexBTC-ETH0.02525": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02525,
+      "amount": 0.03950495
+    },
+    "bittrexBTC-ETH0.02524499": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02524499,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02524329": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02524329,
+      "amount": 0.79002215
+    },
+    "bittrexBTC-ETH0.0252": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0252,
+      "amount": 15.86535211
+    },
+    "bittrexBTC-ETH0.0251784": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0251784,
+      "amount": 3.9617291
+    },
+    "bittrexBTC-ETH0.02515899": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02515899,
+      "amount": 1.42851508
+    },
+    "bittrexBTC-ETH0.025125": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025125,
+      "amount": 0.03970149
+    },
+    "bittrexBTC-ETH0.02511113": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02511113,
+      "amount": 35.060318
+    },
+    "bittrexBTC-ETH0.025101": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025101,
+      "amount": 0.03
+    },
+    "bittrexBTC-ETH0.0251": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0251,
+      "amount": 1.35858824
+    },
+    "bittrexBTC-ETH0.0250001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0250001,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02500001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02500001,
+      "amount": 10.00033543
+    },
+    "bittrexBTC-ETH0.025": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.025,
+      "amount": 356.49986521
+    },
+    "bittrexBTC-ETH0.02492034": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02492034,
+      "amount": 0.52180545
+    },
+    "bittrexBTC-ETH0.0249": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0249,
+      "amount": 0.48177511
+    },
+    "bittrexBTC-ETH0.02489": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02489,
+      "amount": 0.50911174
+    },
+    "bittrexBTC-ETH0.02484995": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02484995,
+      "amount": 0.4
+    },
+    "bittrexBTC-ETH0.024836": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.024836,
+      "amount": 1.5
+    },
+    "bittrexBTC-ETH0.0248255": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0248255,
+      "amount": 0.9975
+    },
+    "bittrexBTC-ETH0.0248": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0248,
+      "amount": 0.68892662
+    },
+    "bittrexBTC-ETH0.02479445": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02479445,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.02473526": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02473526,
+      "amount": 1.78163813
+    },
+    "bittrexBTC-ETH0.0247": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0247,
+      "amount": 0.3092501
+    },
+    "bittrexBTC-ETH0.02464945": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02464945,
+      "amount": 0.80934869
+    },
+    "bittrexBTC-ETH0.0246": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0246,
+      "amount": 83.25882137
+    },
+    "bittrexBTC-ETH0.02458496": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02458496,
+      "amount": 0.4
+    },
+    "bittrexBTC-ETH0.02450353": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02450353,
+      "amount": 0.09398765
+    },
+    "bittrexBTC-ETH0.0245": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0245,
+      "amount": 20.43358579
+    },
+    "bittrexBTC-ETH0.02444444": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02444444,
+      "amount": 20.4034128
+    },
+    "bittrexBTC-ETH0.0244": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0244,
+      "amount": 0.45665161
+    },
+    "bittrexBTC-ETH0.02435573": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02435573,
+      "amount": 40.95545484
+    },
+    "bittrexBTC-ETH0.02431153": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02431153,
+      "amount": 2.18226835
+    },
+    "bittrexBTC-ETH0.0243": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0243,
+      "amount": 0.77084412
+    },
+    "bittrexBTC-ETH0.0242382": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0242382,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.024227": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.024227,
+      "amount": 47.32293617
+    },
+    "bittrexBTC-ETH0.02421521": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02421521,
+      "amount": 0.40105166
+    },
+    "bittrexBTC-ETH0.0242": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0242,
+      "amount": 7.16927171
+    },
+    "bittrexBTC-ETH0.02417263": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02417263,
+      "amount": 1.88129405
+    },
+    "bittrexBTC-ETH0.0241": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0241,
+      "amount": 85.54605193
+    },
+    "bittrexBTC-ETH0.02407711": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02407711,
+      "amount": 4.14293908
+    },
+    "bittrexBTC-ETH0.02404": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02404,
+      "amount": 5.0614677
+    },
+    "bittrexBTC-ETH0.02401132": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02401132,
+      "amount": 0.0230397
+    },
+    "bittrexBTC-ETH0.024": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.024,
+      "amount": 49.92132139
+    },
+    "bittrexBTC-ETH0.0239": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0239,
+      "amount": 0.59306362
+    },
+    "bittrexBTC-ETH0.02389": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02389,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0238878": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0238878,
+      "amount": 2.63293385
+    },
+    "bittrexBTC-ETH0.02384995": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02384995,
+      "amount": 0.16016747
+    },
+    "bittrexBTC-ETH0.02381": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02381,
+      "amount": 30
+    },
+    "bittrexBTC-ETH0.0238": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0238,
+      "amount": 0.63962823
+    },
+    "bittrexBTC-ETH0.0237437": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0237437,
+      "amount": 0.21058218
+    },
+    "bittrexBTC-ETH0.0237": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0237,
+      "amount": 0.68757102
+    },
+    "bittrexBTC-ETH0.0236": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0236,
+      "amount": 1.27039342
+    },
+    "bittrexBTC-ETH0.0235": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0235,
+      "amount": 0.72960245
+    },
+    "bittrexBTC-ETH0.0234": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0234,
+      "amount": 0.72684945
+    },
+    "bittrexBTC-ETH0.0233": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0233,
+      "amount": 0.22095352
+    },
+    "bittrexBTC-ETH0.02323222": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02323222,
+      "amount": 9.16830227
+    },
+    "bittrexBTC-ETH0.02322391": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02322391,
+      "amount": 0.15917025
+    },
+    "bittrexBTC-ETH0.0232087": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0232087,
+      "amount": 0.02149022
+    },
+    "bittrexBTC-ETH0.0232": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0232,
+      "amount": 0.38343195
+    },
+    "bittrexBTC-ETH0.0231": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0231,
+      "amount": 0.86174339
+    },
+    "bittrexBTC-ETH0.023": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.023,
+      "amount": 10.07595519
+    },
+    "bittrexBTC-ETH0.0229": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0229,
+      "amount": 0.02953266
+    },
+    "bittrexBTC-ETH0.02289": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02289,
+      "amount": 0.25
+    },
+    "bittrexBTC-ETH0.02276401": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02276401,
+      "amount": 10
+    },
+    "bittrexBTC-ETH0.0227": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0227,
+      "amount": 0.05354103
+    },
+    "bittrexBTC-ETH0.02260453": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02260453,
+      "amount": 0.40231705
+    },
+    "bittrexBTC-ETH0.0226": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0226,
+      "amount": 0.71396652
+    },
+    "bittrexBTC-ETH0.02258496": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02258496,
+      "amount": 0.4
+    },
+    "bittrexBTC-ETH0.02256789": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02256789,
+      "amount": 21.68383983
+    },
+    "bittrexBTC-ETH0.02250011": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02250011,
+      "amount": 9.99991876
+    },
+    "bittrexBTC-ETH0.0225": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0225,
+      "amount": 0.06964511
+    },
+    "bittrexBTC-ETH0.02248939": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02248939,
+      "amount": 0.02262067
+    },
+    "bittrexBTC-ETH0.0224": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0224,
+      "amount": 0.02898955
+    },
+    "bittrexBTC-ETH0.0223": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0223,
+      "amount": 0.02518692
+    },
+    "bittrexBTC-ETH0.02226506": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02226506,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0222": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0222,
+      "amount": 0.86066142
+    },
+    "bittrexBTC-ETH0.0221": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0221,
+      "amount": 0.44749973
+    },
+    "bittrexBTC-ETH0.02201142": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02201142,
+      "amount": 0.02562381
+    },
+    "bittrexBTC-ETH0.022": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.022,
+      "amount": 312.53012396
+    },
+    "bittrexBTC-ETH0.0218": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0218,
+      "amount": 0.3520118
+    },
+    "bittrexBTC-ETH0.02176323": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02176323,
+      "amount": 0.06218141
+    },
+    "bittrexBTC-ETH0.0217": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0217,
+      "amount": 0.47136044
+    },
+    "bittrexBTC-ETH0.02169999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02169999,
+      "amount": 6.5
+    },
+    "bittrexBTC-ETH0.02166688": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02166688,
+      "amount": 0.93091937
+    },
+    "bittrexBTC-ETH0.0216": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0216,
+      "amount": 138.61996016
+    },
+    "bittrexBTC-ETH0.0215": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0215,
+      "amount": 0.07139535
+    },
+    "bittrexBTC-ETH0.02146564": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02146564,
+      "amount": 185.65678431
+    },
+    "bittrexBTC-ETH0.0214": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0214,
+      "amount": 0.86558762
+    },
+    "bittrexBTC-ETH0.0212": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0212,
+      "amount": 216.05328722
+    },
+    "bittrexBTC-ETH0.0211": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0211,
+      "amount": 0.31698929
+    },
+    "bittrexBTC-ETH0.02108115": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02108115,
+      "amount": 0.4
+    },
+    "bittrexBTC-ETH0.021": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.021,
+      "amount": 83.87298296
+    },
+    "bittrexBTC-ETH0.0209": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0209,
+      "amount": 0.05304459
+    },
+    "bittrexBTC-ETH0.0208": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0208,
+      "amount": 0.28157664
+    },
+    "bittrexBTC-ETH0.0207": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0207,
+      "amount": 0.06699503
+    },
+    "bittrexBTC-ETH0.02060618": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02060618,
+      "amount": 3.2875301
+    },
+    "bittrexBTC-ETH0.0206": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0206,
+      "amount": 0.96483465
+    },
+    "bittrexBTC-ETH0.0205": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0205,
+      "amount": 4.55404111
+    },
+    "bittrexBTC-ETH0.0204": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0204,
+      "amount": 0.18977336
+    },
+    "bittrexBTC-ETH0.02036": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02036,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.0203": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0203,
+      "amount": 0.07621531
+    },
+    "bittrexBTC-ETH0.0201323": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0201323,
+      "amount": 0.02752151
+    },
+    "bittrexBTC-ETH0.0201": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0201,
+      "amount": 148.87997718
+    },
+    "bittrexBTC-ETH0.02001163": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02001163,
+      "amount": 0.02492301
+    },
+    "bittrexBTC-ETH0.02": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02,
+      "amount": 18.0462152
+    },
+    "bittrexBTC-ETH0.0199": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0199,
+      "amount": 0.82821023
+    },
+    "bittrexBTC-ETH0.0198": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0198,
+      "amount": 0.59960261
+    },
+    "bittrexBTC-ETH0.01978": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01978,
+      "amount": 100.85945399
+    },
+    "bittrexBTC-ETH0.0197": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0197,
+      "amount": 151.90355329
+    },
+    "bittrexBTC-ETH0.0196": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0196,
+      "amount": 0.03111577
+    },
+    "bittrexBTC-ETH0.01958496": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01958496,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0195": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0195,
+      "amount": 0.10363228
+    },
+    "bittrexBTC-ETH0.01946635": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01946635,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0194": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0194,
+      "amount": 0.02935645
+    },
+    "bittrexBTC-ETH0.0193": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0193,
+      "amount": 0.05939225
+    },
+    "bittrexBTC-ETH0.0192": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0192,
+      "amount": 0.05709587
+    },
+    "bittrexBTC-ETH0.0191": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0191,
+      "amount": 1.12393026
+    },
+    "bittrexBTC-ETH0.019": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.019,
+      "amount": 0.16428697
+    },
+    "bittrexBTC-ETH0.0189": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0189,
+      "amount": 10.66148279
+    },
+    "bittrexBTC-ETH0.0188": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0188,
+      "amount": 0.03818515
+    },
+    "bittrexBTC-ETH0.0187": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0187,
+      "amount": 1.78262717
+    },
+    "bittrexBTC-ETH0.0186": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0186,
+      "amount": 0.58940272
+    },
+    "bittrexBTC-ETH0.0185": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0185,
+      "amount": 2.19445686
+    },
+    "bittrexBTC-ETH0.0183": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0183,
+      "amount": 0.28625985
+    },
+    "bittrexBTC-ETH0.0182": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0182,
+      "amount": 1.04987213
+    },
+    "bittrexBTC-ETH0.0181": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0181,
+      "amount": 1.05723352
+    },
+    "bittrexBTC-ETH0.0180113": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0180113,
+      "amount": 0.03182022
+    },
+    "bittrexBTC-ETH0.018": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.018,
+      "amount": 0.29299307
+    },
+    "bittrexBTC-ETH0.0179": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0179,
+      "amount": 0.78419477
+    },
+    "bittrexBTC-ETH0.0178": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0178,
+      "amount": 0.10469769
+    },
+    "bittrexBTC-ETH0.0177": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0177,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0176399": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0176399,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0176": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0176,
+      "amount": 0.06521938
+    },
+    "bittrexBTC-ETH0.01758496": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01758496,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.017563": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.017563,
+      "amount": 3
+    },
+    "bittrexBTC-ETH0.0175": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0175,
+      "amount": 0.12251399
+    },
+    "bittrexBTC-ETH0.0174": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0174,
+      "amount": 0.39091712
+    },
+    "bittrexBTC-ETH0.0173": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0173,
+      "amount": 1.46971143
+    },
+    "bittrexBTC-ETH0.0172": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0172,
+      "amount": 0.09966772
+    },
+    "bittrexBTC-ETH0.017": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.017,
+      "amount": 0.12502545
+    },
+    "bittrexBTC-ETH0.0169995": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0169995,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0169": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0169,
+      "amount": 0.11931447
+    },
+    "bittrexBTC-ETH0.0168": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0168,
+      "amount": 0.12497377
+    },
+    "bittrexBTC-ETH0.0167": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0167,
+      "amount": 0.10852754
+    },
+    "bittrexBTC-ETH0.0166546": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0166546,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0166": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0166,
+      "amount": 0.25823988
+    },
+    "bittrexBTC-ETH0.0165": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0165,
+      "amount": 1.17881604
+    },
+    "bittrexBTC-ETH0.0164": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0164,
+      "amount": 0.07232518
+    },
+    "bittrexBTC-ETH0.0163": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0163,
+      "amount": 0.10607347
+    },
+    "bittrexBTC-ETH0.0162488": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0162488,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.0162": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0162,
+      "amount": 0.35212199
+    },
+    "bittrexBTC-ETH0.01619675": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01619675,
+      "amount": 0.61586429
+    },
+    "bittrexBTC-ETH0.0161": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0161,
+      "amount": 1.13502599
+    },
+    "bittrexBTC-ETH0.0160132": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0160132,
+      "amount": 0.03509178
+    },
+    "bittrexBTC-ETH0.016": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.016,
+      "amount": 0.78712583
+    },
+    "bittrexBTC-ETH0.0159": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0159,
+      "amount": 0.23349421
+    },
+    "bittrexBTC-ETH0.0158": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0158,
+      "amount": 0.03916329
+    },
+    "bittrexBTC-ETH0.0157": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0157,
+      "amount": 1.35318581
+    },
+    "bittrexBTC-ETH0.0156": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0156,
+      "amount": 0.26099757
+    },
+    "bittrexBTC-ETH0.0155": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0155,
+      "amount": 0.11061164
+    },
+    "bittrexBTC-ETH0.0154": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0154,
+      "amount": 0.15218644
+    },
+    "bittrexBTC-ETH0.0153": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0153,
+      "amount": 0.03619384
+    },
+    "bittrexBTC-ETH0.0152": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0152,
+      "amount": 0.09831166
+    },
+    "bittrexBTC-ETH0.0151": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0151,
+      "amount": 0.80705518
+    },
+    "bittrexBTC-ETH0.015": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.015,
+      "amount": 4.29516942
+    },
+    "bittrexBTC-ETH0.0149": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0149,
+      "amount": 1.90796735
+    },
+    "bittrexBTC-ETH0.0148": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0148,
+      "amount": 0.08569751
+    },
+    "bittrexBTC-ETH0.0147": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0147,
+      "amount": 0.04385865
+    },
+    "bittrexBTC-ETH0.0146": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0146,
+      "amount": 0.15904867
+    },
+    "bittrexBTC-ETH0.0145": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0145,
+      "amount": 0.20337709
+    },
+    "bittrexBTC-ETH0.01444665": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01444665,
+      "amount": 17.58062221
+    },
+    "bittrexBTC-ETH0.0144": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0144,
+      "amount": 0.08238552
+    },
+    "bittrexBTC-ETH0.0143": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0143,
+      "amount": 0.09823961
+    },
+    "bittrexBTC-ETH0.0142": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0142,
+      "amount": 0.03981714
+    },
+    "bittrexBTC-ETH0.0141": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0141,
+      "amount": 1.53764292
+    },
+    "bittrexBTC-ETH0.0140142": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0140142,
+      "amount": 0.06372691
+    },
+    "bittrexBTC-ETH0.014": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.014,
+      "amount": 2.54331294
+    },
+    "bittrexBTC-ETH0.0138": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0138,
+      "amount": 0.17367783
+    },
+    "bittrexBTC-ETH0.0137": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0137,
+      "amount": 0.96556848
+    },
+    "bittrexBTC-ETH0.0136": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0136,
+      "amount": 0.24994664
+    },
+    "bittrexBTC-ETH0.0135": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0135,
+      "amount": 1.47777778
+    },
+    "bittrexBTC-ETH0.0134": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0134,
+      "amount": 0.05605836
+    },
+    "bittrexBTC-ETH0.0133": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0133,
+      "amount": 1.58546576
+    },
+    "bittrexBTC-ETH0.0131": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0131,
+      "amount": 0.09487614
+    },
+    "bittrexBTC-ETH0.013": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.013,
+      "amount": 0.20609462
+    },
+    "bittrexBTC-ETH0.01299938": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01299938,
+      "amount": 0.04814778
+    },
+    "bittrexBTC-ETH0.0129": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0129,
+      "amount": 0.11225937
+    },
+    "bittrexBTC-ETH0.0128": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0128,
+      "amount": 0.0523378
+    },
+    "bittrexBTC-ETH0.0127": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0127,
+      "amount": 0.08989864
+    },
+    "bittrexBTC-ETH0.0126": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0126,
+      "amount": 0.25409174
+    },
+    "bittrexBTC-ETH0.0125": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0125,
+      "amount": 2.07328056
+    },
+    "bittrexBTC-ETH0.0124": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0124,
+      "amount": 0.46846821
+    },
+    "bittrexBTC-ETH0.0123": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0123,
+      "amount": 0.2672433
+    },
+    "bittrexBTC-ETH0.0122": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0122,
+      "amount": 0.30321781
+    },
+    "bittrexBTC-ETH0.0121": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0121,
+      "amount": 2.07427384
+    },
+    "bittrexBTC-ETH0.012": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.012,
+      "amount": 0.04794964
+    },
+    "bittrexBTC-ETH0.0119": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0119,
+      "amount": 0.24289792
+    },
+    "bittrexBTC-ETH0.0117": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0117,
+      "amount": 0.1973519
+    },
+    "bittrexBTC-ETH0.0116": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0116,
+      "amount": 0.20805716
+    },
+    "bittrexBTC-ETH0.0114": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0114,
+      "amount": 0.10948695
+    },
+    "bittrexBTC-ETH0.0113": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0113,
+      "amount": 0.05049748
+    },
+    "bittrexBTC-ETH0.01124894": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01124894,
+      "amount": 0.355
+    },
+    "bittrexBTC-ETH0.0112": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0112,
+      "amount": 0.0806258
+    },
+    "bittrexBTC-ETH0.0111": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0111,
+      "amount": 1.50657217
+    },
+    "bittrexBTC-ETH0.011": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.011,
+      "amount": 0.13534073
+    },
+    "bittrexBTC-ETH0.0109": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0109,
+      "amount": 0.73222597
+    },
+    "bittrexBTC-ETH0.01081368": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01081368,
+      "amount": 0.04612214
+    },
+    "bittrexBTC-ETH0.0108": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0108,
+      "amount": 0.15741565
+    },
+    "bittrexBTC-ETH0.0107": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0107,
+      "amount": 0.43448608
+    },
+    "bittrexBTC-ETH0.0106": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0106,
+      "amount": 0.27470436
+    },
+    "bittrexBTC-ETH0.0105": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0105,
+      "amount": 2.79114868
+    },
+    "bittrexBTC-ETH0.0104": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0104,
+      "amount": 0.15260811
+    },
+    "bittrexBTC-ETH0.0102": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0102,
+      "amount": 0.08849347
+    },
+    "bittrexBTC-ETH0.0101": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0101,
+      "amount": 0.87122448
+    },
+    "bittrexBTC-ETH0.01": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.01,
+      "amount": 43.10127884
+    },
+    "bittrexBTC-ETH0.0099": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0099,
+      "amount": 0.7307364
+    },
+    "bittrexBTC-ETH0.0098": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0098,
+      "amount": 1.06375629
+    },
+    "bittrexBTC-ETH0.0096": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0096,
+      "amount": 0.1328878
+    },
+    "bittrexBTC-ETH0.00955731": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.00955731,
+      "amount": 0.099
+    },
+    "bittrexBTC-ETH0.0095": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0095,
+      "amount": 0.11282746
+    },
+    "bittrexBTC-ETH0.0094": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0094,
+      "amount": 0.89082783
+    },
+    "bittrexBTC-ETH0.0093": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0093,
+      "amount": 1.14826408
+    },
+    "bittrexBTC-ETH0.0092": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0092,
+      "amount": 0.07582034
+    },
+    "bittrexBTC-ETH0.0091": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0091,
+      "amount": 0.24694081
+    },
+    "bittrexBTC-ETH0.0089": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0089,
+      "amount": 0.9477849
+    },
+    "bittrexBTC-ETH0.0088": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0088,
+      "amount": 1.31507095
+    },
+    "bittrexBTC-ETH0.00861968": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.00861968,
+      "amount": 1.15723621
+    },
+    "bittrexBTC-ETH0.0086": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0086,
+      "amount": 0.06871977
+    },
+    "bittrexBTC-ETH0.0085": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0085,
+      "amount": 1.20243401
+    },
+    "bittrexBTC-ETH0.0084": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0084,
+      "amount": 0.08377519
+    },
+    "bittrexBTC-ETH0.0083": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0083,
+      "amount": 0.08612005
+    },
+    "bittrexBTC-ETH0.0082": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0082,
+      "amount": 1.52757064
+    },
+    "bittrexBTC-ETH0.0081": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0081,
+      "amount": 0.35694144
+    },
+    "bittrexBTC-ETH0.008": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.008,
+      "amount": 0.39271965
+    },
+    "bittrexBTC-ETH0.0079": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0079,
+      "amount": 0.19002121
+    },
+    "bittrexBTC-ETH0.0078": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0078,
+      "amount": 0.17427973
+    },
+    "bittrexBTC-ETH0.0077": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0077,
+      "amount": 64.97310707
+    },
+    "bittrexBTC-ETH0.0076": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0076,
+      "amount": 0.256475
+    },
+    "bittrexBTC-ETH0.0075": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0075,
+      "amount": 0.11152996
+    },
+    "bittrexBTC-ETH0.0074": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0074,
+      "amount": 0.25227634
+    },
+    "bittrexBTC-ETH0.0073": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0073,
+      "amount": 1.53834865
+    },
+    "bittrexBTC-ETH0.0072": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0072,
+      "amount": 1.33996225
+    },
+    "bittrexBTC-ETH0.0071": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0071,
+      "amount": 0.21663391
+    },
+    "bittrexBTC-ETH0.007": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.007,
+      "amount": 0.11027776
+    },
+    "bittrexBTC-ETH0.0069": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0069,
+      "amount": 0.61284309
+    },
+    "bittrexBTC-ETH0.0068": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0068,
+      "amount": 0.11581826
+    },
+    "bittrexBTC-ETH0.0067": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0067,
+      "amount": 0.09597432
+    },
+    "bittrexBTC-ETH0.0066": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0066,
+      "amount": 0.18031055
+    },
+    "bittrexBTC-ETH0.0065": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0065,
+      "amount": 0.20201401
+    },
+    "bittrexBTC-ETH0.0064": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0064,
+      "amount": 0.08834429
+    },
+    "bittrexBTC-ETH0.0063": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0063,
+      "amount": 0.43350517
+    },
+    "bittrexBTC-ETH0.0062": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0062,
+      "amount": 0.7197735
+    },
+    "bittrexBTC-ETH0.0061": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0061,
+      "amount": 0.12894883
+    },
+    "bittrexBTC-ETH0.006": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.006,
+      "amount": 0.11640215
+    },
+    "bittrexBTC-ETH0.0059": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0059,
+      "amount": 4.0298326
+    },
+    "bittrexBTC-ETH0.00589338": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.00589338,
+      "amount": 0.9975
+    },
+    "bittrexBTC-ETH0.00582483": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.00582483,
+      "amount": 0.9975
+    },
+    "bittrexBTC-ETH0.0058": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0058,
+      "amount": 0.57343019
+    },
+    "bittrexBTC-ETH0.0057": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0057,
+      "amount": 0.11019428
+    },
+    "bittrexBTC-ETH0.00562611": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.00562611,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0056": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0056,
+      "amount": 1.1140906
+    },
+    "bittrexBTC-ETH0.0055": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0055,
+      "amount": 0.50995498
+    },
+    "bittrexBTC-ETH0.0054": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0054,
+      "amount": 0.89791364
+    },
+    "bittrexBTC-ETH0.00538271": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.00538271,
+      "amount": 0.9975
+    }
+  },
+  "asks": {
+    "bittrexBTC-ETH0.02838747": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02838747,
+      "amount": 29.47857
+    },
+    "bittrexBTC-ETH0.02838748": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02838748,
+      "amount": 10
+    },
+    "bittrexBTC-ETH0.02840169": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02840169,
+      "amount": 50
+    },
+    "bittrexBTC-ETH0.02841758": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02841758,
+      "amount": 8.59893066
+    },
+    "bittrexBTC-ETH0.02843523": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02843523,
+      "amount": 4.0469838
+    },
+    "bittrexBTC-ETH0.02848164": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02848164,
+      "amount": 50.23257395
+    },
+    "bittrexBTC-ETH0.0285314": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0285314,
+      "amount": 11.2602
+    },
+    "bittrexBTC-ETH0.02853339": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02853339,
+      "amount": 3.69
+    },
+    "bittrexBTC-ETH0.02854039": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02854039,
+      "amount": 273.7588
+    },
+    "bittrexBTC-ETH0.02854043": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02854043,
+      "amount": 55.0924497
+    },
+    "bittrexBTC-ETH0.0285421": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0285421,
+      "amount": 5.46738996
+    },
+    "bittrexBTC-ETH0.02854525": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02854525,
+      "amount": 72.96529173
+    },
+    "bittrexBTC-ETH0.02855944": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02855944,
+      "amount": 0.49020569
+    },
+    "bittrexBTC-ETH0.0286": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0286,
+      "amount": 1.8
+    },
+    "bittrexBTC-ETH0.02862735": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02862735,
+      "amount": 8.81305743
+    },
+    "bittrexBTC-ETH0.02864499": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02864499,
+      "amount": 300
+    },
+    "bittrexBTC-ETH0.02872": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02872,
+      "amount": 4
+    },
+    "bittrexBTC-ETH0.02875652": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02875652,
+      "amount": 0.02737022
+    },
+    "bittrexBTC-ETH0.02876247": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02876247,
+      "amount": 0.42142793
+    },
+    "bittrexBTC-ETH0.0288": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0288,
+      "amount": 1.8
+    },
+    "bittrexBTC-ETH0.02881846": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02881846,
+      "amount": 0.14701018
+    },
+    "bittrexBTC-ETH0.02885098": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02885098,
+      "amount": 0.32370019
+    },
+    "bittrexBTC-ETH0.02890031": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02890031,
+      "amount": 0.1870433
+    },
+    "bittrexBTC-ETH0.02892687": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02892687,
+      "amount": 7.97264991
+    },
+    "bittrexBTC-ETH0.02894509": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02894509,
+      "amount": 0.02786134
+    },
+    "bittrexBTC-ETH0.02895348": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02895348,
+      "amount": 0.02873874
+    },
+    "bittrexBTC-ETH0.02895465": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02895465,
+      "amount": 4.21227168
+    },
+    "bittrexBTC-ETH0.02895488": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02895488,
+      "amount": 0.07598028
+    },
+    "bittrexBTC-ETH0.02898003": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02898003,
+      "amount": 114.973
+    },
+    "bittrexBTC-ETH0.02898004": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02898004,
+      "amount": 40
+    },
+    "bittrexBTC-ETH0.029": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.029,
+      "amount": 1.19459736
+    },
+    "bittrexBTC-ETH0.02908063": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02908063,
+      "amount": 150
+    },
+    "bittrexBTC-ETH0.02908989": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02908989,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0291": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0291,
+      "amount": 1.02396989
+    },
+    "bittrexBTC-ETH0.0291307": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0291307,
+      "amount": 0.04685024
+    },
+    "bittrexBTC-ETH0.02913641": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02913641,
+      "amount": 34.40712154
+    },
+    "bittrexBTC-ETH0.02915044": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02915044,
+      "amount": 0.03017567
+    },
+    "bittrexBTC-ETH0.0291565": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0291565,
+      "amount": 4.21227168
+    },
+    "bittrexBTC-ETH0.02917852": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02917852,
+      "amount": 0.02763875
+    },
+    "bittrexBTC-ETH0.0291891": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0291891,
+      "amount": 2.5
+    },
+    "bittrexBTC-ETH0.0292": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0292,
+      "amount": 0.37639217
+    },
+    "bittrexBTC-ETH0.02922": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02922,
+      "amount": 26.63928125
+    },
+    "bittrexBTC-ETH0.02922538": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02922538,
+      "amount": 0.5411488
+    },
+    "bittrexBTC-ETH0.02922714": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02922714,
+      "amount": 0.0599474
+    },
+    "bittrexBTC-ETH0.02924053": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02924053,
+      "amount": 0.10945345
+    },
+    "bittrexBTC-ETH0.02924694": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02924694,
+      "amount": 0.74663213
+    },
+    "bittrexBTC-ETH0.02926835": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02926835,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02927288": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02927288,
+      "amount": 43.62992625
+    },
+    "bittrexBTC-ETH0.0293": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0293,
+      "amount": 2.22222412
+    },
+    "bittrexBTC-ETH0.0293474": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0293474,
+      "amount": 0.03168446
+    },
+    "bittrexBTC-ETH0.02934859": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02934859,
+      "amount": 0.04842006
+    },
+    "bittrexBTC-ETH0.02937633": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02937633,
+      "amount": 0.68480018
+    },
+    "bittrexBTC-ETH0.0294": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0294,
+      "amount": 2.34604713
+    },
+    "bittrexBTC-ETH0.02941383": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02941383,
+      "amount": 0.02741735
+    },
+    "bittrexBTC-ETH0.02944": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02944,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02944642": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02944642,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02945": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02945,
+      "amount": 0.15
+    },
+    "bittrexBTC-ETH0.02946948": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02946948,
+      "amount": 0.03538324
+    },
+    "bittrexBTC-ETH0.02947111": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02947111,
+      "amount": 0.01799219
+    },
+    "bittrexBTC-ETH0.02947634": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02947634,
+      "amount": 0.035978
+    },
+    "bittrexBTC-ETH0.02948677": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02948677,
+      "amount": 0.03596526
+    },
+    "bittrexBTC-ETH0.02949": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02949,
+      "amount": 8.5013688
+    },
+    "bittrexBTC-ETH0.029492": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.029492,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02949394": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02949394,
+      "amount": 0.03390527
+    },
+    "bittrexBTC-ETH0.02949506": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02949506,
+      "amount": 0.10582111
+    },
+    "bittrexBTC-ETH0.02949921": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02949921,
+      "amount": 0.01797505
+    },
+    "bittrexBTC-ETH0.0295": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0295,
+      "amount": 2.93419821
+    },
+    "bittrexBTC-ETH0.02950844": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02950844,
+      "amount": 0.01796942
+    },
+    "bittrexBTC-ETH0.02951": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02951,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.02951465": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02951465,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.029518": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.029518,
+      "amount": 0.05952525
+    },
+    "bittrexBTC-ETH0.02953047": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02953047,
+      "amount": 0.03196728
+    },
+    "bittrexBTC-ETH0.02953895": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02953895,
+      "amount": 0.17151276
+    },
+    "bittrexBTC-ETH0.02954437": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02954437,
+      "amount": 0.03326868
+    },
+    "bittrexBTC-ETH0.02955308": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02955308,
+      "amount": 0.14922117
+    },
+    "bittrexBTC-ETH0.029561": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.029561,
+      "amount": 1.53255239
+    },
+    "bittrexBTC-ETH0.02956417": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02956417,
+      "amount": 0.15
+    },
+    "bittrexBTC-ETH0.02956844": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02956844,
+      "amount": 33.67326297
+    },
+    "bittrexBTC-ETH0.02957429": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02957429,
+      "amount": 2.72790425
+    },
+    "bittrexBTC-ETH0.02957493": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02957493,
+      "amount": 7.24782665
+    },
+    "bittrexBTC-ETH0.02957494": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02957494,
+      "amount": 20.14542304
+    },
+    "bittrexBTC-ETH0.02958768": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02958768,
+      "amount": 0.03717763
+    },
+    "bittrexBTC-ETH0.0296": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0296,
+      "amount": 0.66823576
+    },
+    "bittrexBTC-ETH0.02960581": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02960581,
+      "amount": 0.06
+    },
+    "bittrexBTC-ETH0.02960643": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02960643,
+      "amount": 23.66591592
+    },
+    "bittrexBTC-ETH0.02962634": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02962634,
+      "amount": 0.74825349
+    },
+    "bittrexBTC-ETH0.02963202": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02963202,
+      "amount": 0.34336167
+    },
+    "bittrexBTC-ETH0.02963434": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02963434,
+      "amount": 0.02635665
+    },
+    "bittrexBTC-ETH0.02963573": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02963573,
+      "amount": 0.48846578
+    },
+    "bittrexBTC-ETH0.02965104": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02965104,
+      "amount": 0.02719828
+    },
+    "bittrexBTC-ETH0.02965634": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02965634,
+      "amount": 150
+    },
+    "bittrexBTC-ETH0.02966414": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02966414,
+      "amount": 0.09118627
+    },
+    "bittrexBTC-ETH0.02966646": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02966646,
+      "amount": 3.672623
+    },
+    "bittrexBTC-ETH0.02966788": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02966788,
+      "amount": 0.2893486
+    },
+    "bittrexBTC-ETH0.02967187": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02967187,
+      "amount": 0.01787045
+    },
+    "bittrexBTC-ETH0.02967363": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02967363,
+      "amount": 0.03573878
+    },
+    "bittrexBTC-ETH0.02967987": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02967987,
+      "amount": 0.01786564
+    },
+    "bittrexBTC-ETH0.0297": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0297,
+      "amount": 1.38431326
+    },
+    "bittrexBTC-ETH0.02970343": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02970343,
+      "amount": 0.11749005
+    },
+    "bittrexBTC-ETH0.02970398": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02970398,
+      "amount": 1.208
+    },
+    "bittrexBTC-ETH0.0297093": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0297093,
+      "amount": 0.05197181
+    },
+    "bittrexBTC-ETH0.02971337": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02971337,
+      "amount": 0.15668223
+    },
+    "bittrexBTC-ETH0.02973562": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02973562,
+      "amount": 0.03699267
+    },
+    "bittrexBTC-ETH0.02974133": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02974133,
+      "amount": 0.03493211
+    },
+    "bittrexBTC-ETH0.02974317": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02974317,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.02975": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02975,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02976981": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02976981,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.02978": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02978,
+      "amount": 0.31085433
+    },
+    "bittrexBTC-ETH0.0298": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0298,
+      "amount": 15.04157835
+    },
+    "bittrexBTC-ETH0.02981": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02981,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.02982": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02982,
+      "amount": 0.70246479
+    },
+    "bittrexBTC-ETH0.02984786": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02984786,
+      "amount": 0.03350323
+    },
+    "bittrexBTC-ETH0.02986337": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02986337,
+      "amount": 0.0408822
+    },
+    "bittrexBTC-ETH0.02986386": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02986386,
+      "amount": 0.14171253
+    },
+    "bittrexBTC-ETH0.02986886": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02986886,
+      "amount": 0.51776651
+    },
+    "bittrexBTC-ETH0.0298795": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0298795,
+      "amount": 0.16451635
+    },
+    "bittrexBTC-ETH0.0298843": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0298843,
+      "amount": 0.03680862
+    },
+    "bittrexBTC-ETH0.02989016": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02989016,
+      "amount": 0.02698035
+    },
+    "bittrexBTC-ETH0.0299": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0299,
+      "amount": 4.77918654
+    },
+    "bittrexBTC-ETH0.02991183": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02991183,
+      "amount": 1.00096254
+    },
+    "bittrexBTC-ETH0.02991703": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02991703,
+      "amount": 0.02077625
+    },
+    "bittrexBTC-ETH0.02992418": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02992418,
+      "amount": 0.04895945
+    },
+    "bittrexBTC-ETH0.02992596": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02992596,
+      "amount": 0.10921579
+    },
+    "bittrexBTC-ETH0.029933": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.029933,
+      "amount": 14.89116982
+    },
+    "bittrexBTC-ETH0.02993377": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02993377,
+      "amount": 5.40920532
+    },
+    "bittrexBTC-ETH0.02993829": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02993829,
+      "amount": 0.03667872
+    },
+    "bittrexBTC-ETH0.029939": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.029939,
+      "amount": 0.34160959
+    },
+    "bittrexBTC-ETH0.02994": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02994,
+      "amount": 1.4343
+    },
+    "bittrexBTC-ETH0.02994444": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02994444,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02996411": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02996411,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02997996": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02997996,
+      "amount": 5.9551638
+    },
+    "bittrexBTC-ETH0.02998888": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02998888,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.02999505": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02999505,
+      "amount": 0.0827455
+    },
+    "bittrexBTC-ETH0.02999999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.02999999,
+      "amount": 5.589
+    },
+    "bittrexBTC-ETH0.03": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03,
+      "amount": 37.15200804
+    },
+    "bittrexBTC-ETH0.03000262": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03000262,
+      "amount": 2.05696765
+    },
+    "bittrexBTC-ETH0.030004": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.030004,
+      "amount": 0.336
+    },
+    "bittrexBTC-ETH0.03002067": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03002067,
+      "amount": 0.60939102
+    },
+    "bittrexBTC-ETH0.03002525": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03002525,
+      "amount": 0.10603155
+    },
+    "bittrexBTC-ETH0.03002565": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03002565,
+      "amount": 0.03
+    },
+    "bittrexBTC-ETH0.03003372": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03003372,
+      "amount": 0.03662549
+    },
+    "bittrexBTC-ETH0.0300451": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0300451,
+      "amount": 0.017868
+    },
+    "bittrexBTC-ETH0.03005189": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03005189,
+      "amount": 0.17274216
+    },
+    "bittrexBTC-ETH0.03006508": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03006508,
+      "amount": 0.05
+    },
+    "bittrexBTC-ETH0.0300651": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0300651,
+      "amount": 0.018
+    },
+    "bittrexBTC-ETH0.03007244": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03007244,
+      "amount": 4.35455773
+    },
+    "bittrexBTC-ETH0.03008473": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03008473,
+      "amount": 1.1
+    },
+    "bittrexBTC-ETH0.03009531": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03009531,
+      "amount": 3.8539871
+    },
+    "bittrexBTC-ETH0.0301": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0301,
+      "amount": 2.50862442
+    },
+    "bittrexBTC-ETH0.03011": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03011,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.0301258": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0301258,
+      "amount": 2.20455487
+    },
+    "bittrexBTC-ETH0.03013121": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03013121,
+      "amount": 0.02676469
+    },
+    "bittrexBTC-ETH0.03013525": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03013525,
+      "amount": 0.03851266
+    },
+    "bittrexBTC-ETH0.0301391": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0301391,
+      "amount": 4.32435878
+    },
+    "bittrexBTC-ETH0.0301747": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0301747,
+      "amount": 0.03347173
+    },
+    "bittrexBTC-ETH0.03018388": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03018388,
+      "amount": 0.03644329
+    },
+    "bittrexBTC-ETH0.03019367": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03019367,
+      "amount": 1.85859882
+    },
+    "bittrexBTC-ETH0.03019897": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03019897,
+      "amount": 1.01358097
+    },
+    "bittrexBTC-ETH0.0302": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0302,
+      "amount": 1.09234221
+    },
+    "bittrexBTC-ETH0.03020604": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03020604,
+      "amount": 0.03310596
+    },
+    "bittrexBTC-ETH0.03021081": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03021081,
+      "amount": 0.96545285
+    },
+    "bittrexBTC-ETH0.03023105": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03023105,
+      "amount": 0.18137927
+    },
+    "bittrexBTC-ETH0.03023316": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03023316,
+      "amount": 2.45939946
+    },
+    "bittrexBTC-ETH0.03024525": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03024525,
+      "amount": 6.19843927
+    },
+    "bittrexBTC-ETH0.03025246": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03025246,
+      "amount": 6.14399926
+    },
+    "bittrexBTC-ETH0.03026098": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03026098,
+      "amount": 0.28367753
+    },
+    "bittrexBTC-ETH0.030274": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.030274,
+      "amount": 0.45298616
+    },
+    "bittrexBTC-ETH0.03027684": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03027684,
+      "amount": 0.03794282
+    },
+    "bittrexBTC-ETH0.03028348": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03028348,
+      "amount": 0.18722707
+    },
+    "bittrexBTC-ETH0.0303": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0303,
+      "amount": 0.98307249
+    },
+    "bittrexBTC-ETH0.03033222": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03033222,
+      "amount": 0.04043829
+    },
+    "bittrexBTC-ETH0.0303348": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0303348,
+      "amount": 0.03626198
+    },
+    "bittrexBTC-ETH0.03036402": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03036402,
+      "amount": 0.05257309
+    },
+    "bittrexBTC-ETH0.0303742": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0303742,
+      "amount": 0.12742897
+    },
+    "bittrexBTC-ETH0.03038452": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03038452,
+      "amount": 0.03594
+    },
+    "bittrexBTC-ETH0.0304": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0304,
+      "amount": 2.15567474
+    },
+    "bittrexBTC-ETH0.03041": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03041,
+      "amount": 6.09142989
+    },
+    "bittrexBTC-ETH0.03041752": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03041752,
+      "amount": 0.19044824
+    },
+    "bittrexBTC-ETH0.03042042": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03042042,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03043172": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03043172,
+      "amount": 0.15
+    },
+    "bittrexBTC-ETH0.03043488": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03043488,
+      "amount": 0.04097498
+    },
+    "bittrexBTC-ETH0.03046074": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03046074,
+      "amount": 1.4949162
+    },
+    "bittrexBTC-ETH0.03046225": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03046225,
+      "amount": 0.0637354
+    },
+    "bittrexBTC-ETH0.03048648": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03048648,
+      "amount": 0.03608156
+    },
+    "bittrexBTC-ETH0.03048779": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03048779,
+      "amount": 0.08624222
+    },
+    "bittrexBTC-ETH0.0305": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0305,
+      "amount": 3.03095524
+    },
+    "bittrexBTC-ETH0.03051254": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03051254,
+      "amount": 0.05309776
+    },
+    "bittrexBTC-ETH0.03051768": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03051768,
+      "amount": 0.28129144
+    },
+    "bittrexBTC-ETH0.03052918": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03052918,
+      "amount": 0.0424602
+    },
+    "bittrexBTC-ETH0.0305555": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0305555,
+      "amount": 0.53
+    },
+    "bittrexBTC-ETH0.03055559": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03055559,
+      "amount": 0.28094242
+    },
+    "bittrexBTC-ETH0.03056292": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03056292,
+      "amount": 4.0444194
+    },
+    "bittrexBTC-ETH0.0306": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0306,
+      "amount": 3.13134726
+    },
+    "bittrexBTC-ETH0.03060175": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03060175,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03061193": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03061193,
+      "amount": 0.19997065
+    },
+    "bittrexBTC-ETH0.03061915": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03061915,
+      "amount": 0.02633779
+    },
+    "bittrexBTC-ETH0.03063891": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03063891,
+      "amount": 0.03590206
+    },
+    "bittrexBTC-ETH0.03064": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03064,
+      "amount": 3
+    },
+    "bittrexBTC-ETH0.030641": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.030641,
+      "amount": 0.29644287
+    },
+    "bittrexBTC-ETH0.0307": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0307,
+      "amount": 2.29938036
+    },
+    "bittrexBTC-ETH0.03070835": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03070835,
+      "amount": 0.16259085
+    },
+    "bittrexBTC-ETH0.03070996": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03070996,
+      "amount": 0.0231754
+    },
+    "bittrexBTC-ETH0.03072614": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03072614,
+      "amount": 0.04458321
+    },
+    "bittrexBTC-ETH0.03075": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03075,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.030776": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.030776,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.03079009": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03079009,
+      "amount": 0.0938676
+    },
+    "bittrexBTC-ETH0.0307921": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0307921,
+      "amount": 0.03572344
+    },
+    "bittrexBTC-ETH0.0308": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0308,
+      "amount": 1.54410441
+    },
+    "bittrexBTC-ETH0.03081498": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03081498,
+      "amount": 0.20996918
+    },
+    "bittrexBTC-ETH0.03081589": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03081589,
+      "amount": 0.2482306
+    },
+    "bittrexBTC-ETH0.03083": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03083,
+      "amount": 3.26225
+    },
+    "bittrexBTC-ETH0.03084229": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03084229,
+      "amount": 0.06200626
+    },
+    "bittrexBTC-ETH0.03084618": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03084618,
+      "amount": 0.16171118
+    },
+    "bittrexBTC-ETH0.03086214": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03086214,
+      "amount": 0.02664953
+    },
+    "bittrexBTC-ETH0.03086608": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03086608,
+      "amount": 0.02612758
+    },
+    "bittrexBTC-ETH0.03088367": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03088367,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03089999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03089999,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.0309": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0309,
+      "amount": 3.09498543
+    },
+    "bittrexBTC-ETH0.03090587": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03090587,
+      "amount": 1.24798229
+    },
+    "bittrexBTC-ETH0.0309231": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0309231,
+      "amount": 0.04681238
+    },
+    "bittrexBTC-ETH0.0309292": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0309292,
+      "amount": 5.41976626
+    },
+    "bittrexBTC-ETH0.03094607": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03094607,
+      "amount": 0.0355457
+    },
+    "bittrexBTC-ETH0.03094995": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03094995,
+      "amount": 0.05
+    },
+    "bittrexBTC-ETH0.03096969": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03096969,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.030972": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.030972,
+      "amount": 0.12913636
+    },
+    "bittrexBTC-ETH0.03098386": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03098386,
+      "amount": 5
+    },
+    "bittrexBTC-ETH0.0309888": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0309888,
+      "amount": 8
+    },
+    "bittrexBTC-ETH0.03099853": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03099853,
+      "amount": 0.43686318
+    },
+    "bittrexBTC-ETH0.031": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.031,
+      "amount": 17.10505034
+    },
+    "bittrexBTC-ETH0.03100652": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03100652,
+      "amount": 0.14171253
+    },
+    "bittrexBTC-ETH0.03101": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03101,
+      "amount": 2.87061409
+    },
+    "bittrexBTC-ETH0.03102748": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03102748,
+      "amount": 0.22046764
+    },
+    "bittrexBTC-ETH0.03105661": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03105661,
+      "amount": 0.105043
+    },
+    "bittrexBTC-ETH0.03106872": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03106872,
+      "amount": 4.25298811
+    },
+    "bittrexBTC-ETH0.03107837": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03107837,
+      "amount": 0.03330256
+    },
+    "bittrexBTC-ETH0.0311": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0311,
+      "amount": 5.12524664
+    },
+    "bittrexBTC-ETH0.0311008": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0311008,
+      "amount": 0.03536886
+    },
+    "bittrexBTC-ETH0.031115": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.031115,
+      "amount": 0.02591841
+    },
+    "bittrexBTC-ETH0.03112007": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03112007,
+      "amount": 0.04915299
+    },
+    "bittrexBTC-ETH0.03116666": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03116666,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03119692": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03119692,
+      "amount": 0.2754
+    },
+    "bittrexBTC-ETH0.0312": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0312,
+      "amount": 9.12447639
+    },
+    "bittrexBTC-ETH0.03124231": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03124231,
+      "amount": 0.22588985
+    },
+    "bittrexBTC-ETH0.03124283": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03124283,
+      "amount": 3.20873621
+    },
+    "bittrexBTC-ETH0.03125": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03125,
+      "amount": 3.87627816
+    },
+    "bittrexBTC-ETH0.03125035": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03125035,
+      "amount": 0.23149102
+    },
+    "bittrexBTC-ETH0.03129": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03129,
+      "amount": 1.06839637
+    },
+    "bittrexBTC-ETH0.0313": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0313,
+      "amount": 1.28009264
+    },
+    "bittrexBTC-ETH0.03130001": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03130001,
+      "amount": 0.59738516
+    },
+    "bittrexBTC-ETH0.03131703": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03131703,
+      "amount": 0.05161064
+    },
+    "bittrexBTC-ETH0.03133674": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03133674,
+      "amount": 0.29961257
+    },
+    "bittrexBTC-ETH0.03135": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03135,
+      "amount": 1.15
+    },
+    "bittrexBTC-ETH0.03135398": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03135398,
+      "amount": 0.7524813
+    },
+    "bittrexBTC-ETH0.03135605": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03135605,
+      "amount": 0.608488
+    },
+    "bittrexBTC-ETH0.03137": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03137,
+      "amount": 14
+    },
+    "bittrexBTC-ETH0.03137172": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03137172,
+      "amount": 0.2
+    },
+    "bittrexBTC-ETH0.0314": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0314,
+      "amount": 1.17938458
+    },
+    "bittrexBTC-ETH0.03141": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03141,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03142": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03142,
+      "amount": 0.32050375
+    },
+    "bittrexBTC-ETH0.03142253": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03142253,
+      "amount": 0.072
+    },
+    "bittrexBTC-ETH0.03143172": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03143172,
+      "amount": 0.15
+    },
+    "bittrexBTC-ETH0.03143329": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03143329,
+      "amount": 0.11316844
+    },
+    "bittrexBTC-ETH0.03144488": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03144488,
+      "amount": 1.86395142
+    },
+    "bittrexBTC-ETH0.0314495": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0314495,
+      "amount": 7.00484031
+    },
+    "bittrexBTC-ETH0.03145848": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03145848,
+      "amount": 0.04837823
+    },
+    "bittrexBTC-ETH0.03148465": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03148465,
+      "amount": 0.24306557
+    },
+    "bittrexBTC-ETH0.0315": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0315,
+      "amount": 6.76876296
+    },
+    "bittrexBTC-ETH0.03151399": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03151399,
+      "amount": 0.05419118
+    },
+    "bittrexBTC-ETH0.03151575": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03151575,
+      "amount": 0.0337792
+    },
+    "bittrexBTC-ETH0.03152228": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03152228,
+      "amount": 0.03109699
+    },
+    "bittrexBTC-ETH0.03154919": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03154919,
+      "amount": 4.91977227
+    },
+    "bittrexBTC-ETH0.03154999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03154999,
+      "amount": 0.24468244
+    },
+    "bittrexBTC-ETH0.03155": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03155,
+      "amount": 0.0159
+    },
+    "bittrexBTC-ETH0.03157706": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03157706,
+      "amount": 0.15261368
+    },
+    "bittrexBTC-ETH0.03159999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03159999,
+      "amount": 10
+    },
+    "bittrexBTC-ETH0.0316": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0316,
+      "amount": 15.49644286
+    },
+    "bittrexBTC-ETH0.03161258": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03161258,
+      "amount": 4.46155683
+    },
+    "bittrexBTC-ETH0.03165": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03165,
+      "amount": 0.0159
+    },
+    "bittrexBTC-ETH0.03167766": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03167766,
+      "amount": 0.15718933
+    },
+    "bittrexBTC-ETH0.03167856": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03167856,
+      "amount": 0.27098327
+    },
+    "bittrexBTC-ETH0.0317": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0317,
+      "amount": 1.452205
+    },
+    "bittrexBTC-ETH0.03171": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03171,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03171095": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03171095,
+      "amount": 0.05690074
+    },
+    "bittrexBTC-ETH0.03171357": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03171357,
+      "amount": 0.81131733
+    },
+    "bittrexBTC-ETH0.03173163": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03173163,
+      "amount": 0.25521885
+    },
+    "bittrexBTC-ETH0.03174677": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03174677,
+      "amount": 0.45
+    },
+    "bittrexBTC-ETH0.03175": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03175,
+      "amount": 0.0158
+    },
+    "bittrexBTC-ETH0.03176525": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03176525,
+      "amount": 0.27024372
+    },
+    "bittrexBTC-ETH0.03177561": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03177561,
+      "amount": 0.03540461
+    },
+    "bittrexBTC-ETH0.0317964": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0317964,
+      "amount": 0.71055023
+    },
+    "bittrexBTC-ETH0.0318": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0318,
+      "amount": 14.9313467
+    },
+    "bittrexBTC-ETH0.0318073": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0318073,
+      "amount": 0.023
+    },
+    "bittrexBTC-ETH0.03180985": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03180985,
+      "amount": 2.41054341
+    },
+    "bittrexBTC-ETH0.03182": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03182,
+      "amount": 1.00104741
+    },
+    "bittrexBTC-ETH0.03183145": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03183145,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03183877": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03183877,
+      "amount": 0.8
+    },
+    "bittrexBTC-ETH0.03185": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03185,
+      "amount": 0.0158
+    },
+    "bittrexBTC-ETH0.03187727": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03187727,
+      "amount": 1.0345722
+    },
+    "bittrexBTC-ETH0.03189105": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03189105,
+      "amount": 1.47144096
+    },
+    "bittrexBTC-ETH0.031898": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.031898,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03189998": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03189998,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.0319": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0319,
+      "amount": 4.77251376
+    },
+    "bittrexBTC-ETH0.03190792": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03190792,
+      "amount": 0.05974577
+    },
+    "bittrexBTC-ETH0.03191": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03191,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03192": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03192,
+      "amount": 0.24203419
+    },
+    "bittrexBTC-ETH0.03192142": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03192142,
+      "amount": 0.26892164
+    },
+    "bittrexBTC-ETH0.0319354": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0319354,
+      "amount": 0.08280265
+    },
+    "bittrexBTC-ETH0.03194": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03194,
+      "amount": 0.205
+    },
+    "bittrexBTC-ETH0.03194995": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03194995,
+      "amount": 0.05
+    },
+    "bittrexBTC-ETH0.03195524": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03195524,
+      "amount": 0.39703283
+    },
+    "bittrexBTC-ETH0.031958": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.031958,
+      "amount": 0.6875
+    },
+    "bittrexBTC-ETH0.03196969": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03196969,
+      "amount": 10
+    },
+    "bittrexBTC-ETH0.0319852": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0319852,
+      "amount": 2.80325665
+    },
+    "bittrexBTC-ETH0.03198821": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03198821,
+      "amount": 0.06721223
+    },
+    "bittrexBTC-ETH0.03199": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03199,
+      "amount": 18
+    },
+    "bittrexBTC-ETH0.03199272": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03199272,
+      "amount": 0.26797979
+    },
+    "bittrexBTC-ETH0.0319967": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0319967,
+      "amount": 1.03417215
+    },
+    "bittrexBTC-ETH0.03199888": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03199888,
+      "amount": 18
+    },
+    "bittrexBTC-ETH0.0319997": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0319997,
+      "amount": 0.04901826
+    },
+    "bittrexBTC-ETH0.032": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.032,
+      "amount": 12.71612799
+    },
+    "bittrexBTC-ETH0.032009": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.032009,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03201": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03201,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03203832": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03203832,
+      "amount": 0.26794042
+    },
+    "bittrexBTC-ETH0.03206442": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03206442,
+      "amount": 0.28197514
+    },
+    "bittrexBTC-ETH0.0320711": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0320711,
+      "amount": 1.04535118
+    },
+    "bittrexBTC-ETH0.03209519": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03209519,
+      "amount": 1.93654308
+    },
+    "bittrexBTC-ETH0.0321": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0321,
+      "amount": 0.31739772
+    },
+    "bittrexBTC-ETH0.03210488": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03210488,
+      "amount": 0.06273306
+    },
+    "bittrexBTC-ETH0.03211": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03211,
+      "amount": 0.0293645
+    },
+    "bittrexBTC-ETH0.03212475": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03212475,
+      "amount": 0.11998457
+    },
+    "bittrexBTC-ETH0.03213225": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03213225,
+      "amount": 0.68295839
+    },
+    "bittrexBTC-ETH0.03214708": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03214708,
+      "amount": 0.016352
+    },
+    "bittrexBTC-ETH0.03214918": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03214918,
+      "amount": 0.14171253
+    },
+    "bittrexBTC-ETH0.03215155": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03215155,
+      "amount": 0.20167642
+    },
+    "bittrexBTC-ETH0.0321724": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0321724,
+      "amount": 0.1269672
+    },
+    "bittrexBTC-ETH0.03217846": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03217846,
+      "amount": 0.18
+    },
+    "bittrexBTC-ETH0.03219462": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03219462,
+      "amount": 4.68826195
+    },
+    "bittrexBTC-ETH0.0322": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0322,
+      "amount": 8.67844331
+    },
+    "bittrexBTC-ETH0.03221": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03221,
+      "amount": 0.04000009
+    },
+    "bittrexBTC-ETH0.03222135": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03222135,
+      "amount": 0.07588954
+    },
+    "bittrexBTC-ETH0.03225": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03225,
+      "amount": 3.22214866
+    },
+    "bittrexBTC-ETH0.03226965": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03226965,
+      "amount": 0.28137878
+    },
+    "bittrexBTC-ETH0.0323": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0323,
+      "amount": 25.25812808
+    },
+    "bittrexBTC-ETH0.03230184": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03230184,
+      "amount": 0.06586972
+    },
+    "bittrexBTC-ETH0.03231": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03231,
+      "amount": 0.15536549
+    },
+    "bittrexBTC-ETH0.0323162": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0323162,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03236316": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03236316,
+      "amount": 0.4654
+    },
+    "bittrexBTC-ETH0.03236888": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03236888,
+      "amount": 0.065
+    },
+    "bittrexBTC-ETH0.03236891": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03236891,
+      "amount": 0.01579526
+    },
+    "bittrexBTC-ETH0.03237994": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03237994,
+      "amount": 5.95516381
+    },
+    "bittrexBTC-ETH0.03238321": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03238321,
+      "amount": 0.03798993
+    },
+    "bittrexBTC-ETH0.0324": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0324,
+      "amount": 4.08638313
+    },
+    "bittrexBTC-ETH0.0324011": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0324011,
+      "amount": 0.18564184
+    },
+    "bittrexBTC-ETH0.03241": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03241,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03242862": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03242862,
+      "amount": 1.31058954
+    },
+    "bittrexBTC-ETH0.03245866": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03245866,
+      "amount": 2.36304844
+    },
+    "bittrexBTC-ETH0.03247999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03247999,
+      "amount": 0.1
+    },
+    "bittrexBTC-ETH0.032495": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.032495,
+      "amount": 1.24970626
+    },
+    "bittrexBTC-ETH0.0324988": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0324988,
+      "amount": 0.0691632
+    },
+    "bittrexBTC-ETH0.0325": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0325,
+      "amount": 2.35064245
+    },
+    "bittrexBTC-ETH0.03250059": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03250059,
+      "amount": 7.82
+    },
+    "bittrexBTC-ETH0.03251": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03251,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.0325477": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0325477,
+      "amount": 0.43853765
+    },
+    "bittrexBTC-ETH0.03255933": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03255933,
+      "amount": 0.01693447
+    },
+    "bittrexBTC-ETH0.03256445": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03256445,
+      "amount": 0.29544772
+    },
+    "bittrexBTC-ETH0.03258657": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03258657,
+      "amount": 5.92278995
+    },
+    "bittrexBTC-ETH0.03258699": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03258699,
+      "amount": 0.22307091
+    },
+    "bittrexBTC-ETH0.0325902": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0325902,
+      "amount": 0.1196703
+    },
+    "bittrexBTC-ETH0.03259545": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03259545,
+      "amount": 0.17
+    },
+    "bittrexBTC-ETH0.03259851": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03259851,
+      "amount": 0.01552958
+    },
+    "bittrexBTC-ETH0.0326": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0326,
+      "amount": 15.07018437
+    },
+    "bittrexBTC-ETH0.03261": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03261,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03261318": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03261318,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03264388": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03264388,
+      "amount": 0.0153551
+    },
+    "bittrexBTC-ETH0.03265": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03265,
+      "amount": 25
+    },
+    "bittrexBTC-ETH0.0326706": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0326706,
+      "amount": 0.01662844
+    },
+    "bittrexBTC-ETH0.03267916": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03267916,
+      "amount": 0.49366634
+    },
+    "bittrexBTC-ETH0.03269217": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03269217,
+      "amount": 0.01533242
+    },
+    "bittrexBTC-ETH0.03269577": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03269577,
+      "amount": 0.07262136
+    },
+    "bittrexBTC-ETH0.0327": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0327,
+      "amount": 2.84710498
+    },
+    "bittrexBTC-ETH0.03270504": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03270504,
+      "amount": 0.11422077
+    },
+    "bittrexBTC-ETH0.03271": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03271,
+      "amount": 0.04
+    },
+    "bittrexBTC-ETH0.03273805": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03273805,
+      "amount": 1.00000012
+    },
+    "bittrexBTC-ETH0.03275028": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03275028,
+      "amount": 0.01568605
+    },
+    "bittrexBTC-ETH0.0327505": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0327505,
+      "amount": 0.11358691
+    },
+    "bittrexBTC-ETH0.03278614": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03278614,
+      "amount": 1.60703242
+    },
+    "bittrexBTC-ETH0.03278794": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03278794,
+      "amount": 0.38956262
+    },
+    "bittrexBTC-ETH0.03279183": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03279183,
+      "amount": 0.3075
+    },
+    "bittrexBTC-ETH0.03279516": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03279516,
+      "amount": 0.24854089
+    },
+    "bittrexBTC-ETH0.0328": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0328,
+      "amount": 2.23767139
+    },
+    "bittrexBTC-ETH0.03280832": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03280832,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03281": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03281,
+      "amount": 0.02000009
+    },
+    "bittrexBTC-ETH0.03281524": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03281524,
+      "amount": 4.92403528
+    },
+    "bittrexBTC-ETH0.03282931": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03282931,
+      "amount": 15.25243062
+    },
+    "bittrexBTC-ETH0.03284853": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03284853,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.03286345": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03286345,
+      "amount": 1.97390144
+    },
+    "bittrexBTC-ETH0.03287961": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03287961,
+      "amount": 0.31022011
+    },
+    "bittrexBTC-ETH0.03289273": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03289273,
+      "amount": 0.07625243
+    },
+    "bittrexBTC-ETH0.0328969": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0328969,
+      "amount": 0.03
+    },
+    "bittrexBTC-ETH0.03289998": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03289998,
+      "amount": 0.81671852
+    },
+    "bittrexBTC-ETH0.0329": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0329,
+      "amount": 23.91697476
+    },
+    "bittrexBTC-ETH0.03290411": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03290411,
+      "amount": 0.01553835
+    },
+    "bittrexBTC-ETH0.03290437": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03290437,
+      "amount": 0.05
+    },
+    "bittrexBTC-ETH0.03290523": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03290523,
+      "amount": 0.07123444
+    },
+    "bittrexBTC-ETH0.03290669": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03290669,
+      "amount": 0.15911871
+    },
+    "bittrexBTC-ETH0.03290899": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03290899,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03291": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03291,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03291391": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03291391,
+      "amount": 0.16
+    },
+    "bittrexBTC-ETH0.03292868": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03292868,
+      "amount": 0.30625339
+    },
+    "bittrexBTC-ETH0.0329291": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0329291,
+      "amount": 2.16619817
+    },
+    "bittrexBTC-ETH0.03294339": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03294339,
+      "amount": 0.02465871
+    },
+    "bittrexBTC-ETH0.03295": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03295,
+      "amount": 0.09142988
+    },
+    "bittrexBTC-ETH0.03296969": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03296969,
+      "amount": 10
+    },
+    "bittrexBTC-ETH0.03298": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03298,
+      "amount": 1.81945
+    },
+    "bittrexBTC-ETH0.03299": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03299,
+      "amount": 0.13459811
+    },
+    "bittrexBTC-ETH0.033": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.033,
+      "amount": 33.32013976
+    },
+    "bittrexBTC-ETH0.03301": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03301,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03301133": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03301133,
+      "amount": 0.13914558
+    },
+    "bittrexBTC-ETH0.03302": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03302,
+      "amount": 0.016
+    },
+    "bittrexBTC-ETH0.03305": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03305,
+      "amount": 3.28216969
+    },
+    "bittrexBTC-ETH0.03305354": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03305354,
+      "amount": 3.90015851
+    },
+    "bittrexBTC-ETH0.03308026": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03308026,
+      "amount": 0.01552958
+    },
+    "bittrexBTC-ETH0.03308969": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03308969,
+      "amount": 0.08006505
+    },
+    "bittrexBTC-ETH0.03309998": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03309998,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03309999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03309999,
+      "amount": 4.35258589
+    },
+    "bittrexBTC-ETH0.0331": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0331,
+      "amount": 56.73280842
+    },
+    "bittrexBTC-ETH0.03310266": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03310266,
+      "amount": 0.91188011
+    },
+    "bittrexBTC-ETH0.03310269": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03310269,
+      "amount": 0.68535693
+    },
+    "bittrexBTC-ETH0.03310719": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03310719,
+      "amount": 0.01514022
+    },
+    "bittrexBTC-ETH0.03310999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03310999,
+      "amount": 0.09
+    },
+    "bittrexBTC-ETH0.03311": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03311,
+      "amount": 4.28882993
+    },
+    "bittrexBTC-ETH0.03312008": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03312008,
+      "amount": 0.19824791
+    },
+    "bittrexBTC-ETH0.03312252": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03312252,
+      "amount": 6.65214266
+    },
+    "bittrexBTC-ETH0.0331263": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0331263,
+      "amount": 0.20247
+    },
+    "bittrexBTC-ETH0.03313948": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03313948,
+      "amount": 0.01527607
+    },
+    "bittrexBTC-ETH0.03314366": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03314366,
+      "amount": 1.9346798
+    },
+    "bittrexBTC-ETH0.03317949": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03317949,
+      "amount": 0.01516023
+    },
+    "bittrexBTC-ETH0.03319859": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03319859,
+      "amount": 0.01515151
+    },
+    "bittrexBTC-ETH0.0332": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0332,
+      "amount": 19.20619055
+    },
+    "bittrexBTC-ETH0.03320151": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03320151,
+      "amount": 0.01509751
+    },
+    "bittrexBTC-ETH0.03320461": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03320461,
+      "amount": 0.01514877
+    },
+    "bittrexBTC-ETH0.03321": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03321,
+      "amount": 0.0389634
+    },
+    "bittrexBTC-ETH0.03321168": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03321168,
+      "amount": 0.01514554
+    },
+    "bittrexBTC-ETH0.03321243": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03321243,
+      "amount": 0.0151452
+    },
+    "bittrexBTC-ETH0.0332177": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0332177,
+      "amount": 0.01514279
+    },
+    "bittrexBTC-ETH0.03321813": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03321813,
+      "amount": 0.32573112
+    },
+    "bittrexBTC-ETH0.03321872": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03321872,
+      "amount": 0.01514233
+    },
+    "bittrexBTC-ETH0.03323": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03323,
+      "amount": 0.5
+    },
+    "bittrexBTC-ETH0.0332417": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0332417,
+      "amount": 0.08132699
+    },
+    "bittrexBTC-ETH0.03324745": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03324745,
+      "amount": 0.07566677
+    },
+    "bittrexBTC-ETH0.03325": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03325,
+      "amount": 0.10661255
+    },
+    "bittrexBTC-ETH0.03326485": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03326485,
+      "amount": 11.99301769
+    },
+    "bittrexBTC-ETH0.03327": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03327,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03328": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03328,
+      "amount": 4.62560514
+    },
+    "bittrexBTC-ETH0.03328665": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03328665,
+      "amount": 0.0840683
+    },
+    "bittrexBTC-ETH0.03329": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03329,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03329184": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03329184,
+      "amount": 0.14171253
+    },
+    "bittrexBTC-ETH0.0333": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0333,
+      "amount": 5.73144786
+    },
+    "bittrexBTC-ETH0.03330181": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03330181,
+      "amount": 0.024
+    },
+    "bittrexBTC-ETH0.03330794": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03330794,
+      "amount": 2
+    },
+    "bittrexBTC-ETH0.03331": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03331,
+      "amount": 0.017
+    },
+    "bittrexBTC-ETH0.03332": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03332,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03333": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03333,
+      "amount": 0.43130892
+    },
+    "bittrexBTC-ETH0.03333117": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03333117,
+      "amount": 0.91344469
+    },
+    "bittrexBTC-ETH0.03333333": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03333333,
+      "amount": 5.24433255
+    },
+    "bittrexBTC-ETH0.03335503": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03335503,
+      "amount": 10.29727104
+    },
+    "bittrexBTC-ETH0.03335543": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03335543,
+      "amount": 1.50275382
+    },
+    "bittrexBTC-ETH0.03335555": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03335555,
+      "amount": 0.0375
+    },
+    "bittrexBTC-ETH0.03336342": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03336342,
+      "amount": 0.91931135
+    },
+    "bittrexBTC-ETH0.0333652": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0333652,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03337": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03337,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.0333705": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0333705,
+      "amount": 0.051
+    },
+    "bittrexBTC-ETH0.0333732": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0333732,
+      "amount": 0.01516909
+    },
+    "bittrexBTC-ETH0.033389": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.033389,
+      "amount": 0.21096224
+    },
+    "bittrexBTC-ETH0.03339": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03339,
+      "amount": 1.137
+    },
+    "bittrexBTC-ETH0.03339184": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03339184,
+      "amount": 0.01801338
+    },
+    "bittrexBTC-ETH0.03339876": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03339876,
+      "amount": 0.87886455
+    },
+    "bittrexBTC-ETH0.0334": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0334,
+      "amount": 3.49124312
+    },
+    "bittrexBTC-ETH0.03341": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03341,
+      "amount": 0.02
+    },
+    "bittrexBTC-ETH0.03343299": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03343299,
+      "amount": 0.21672076
+    },
+    "bittrexBTC-ETH0.033433": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.033433,
+      "amount": 0.05472571
+    },
+    "bittrexBTC-ETH0.03346108": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03346108,
+      "amount": 0.01535283
+    },
+    "bittrexBTC-ETH0.03347096": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03347096,
+      "amount": 1.9
+    },
+    "bittrexBTC-ETH0.03347503": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03347503,
+      "amount": 5.16887681
+    },
+    "bittrexBTC-ETH0.03348362": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03348362,
+      "amount": 0.08827172
+    },
+    "bittrexBTC-ETH0.03348417": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03348417,
+      "amount": 0.51661728
+    },
+    "bittrexBTC-ETH0.03348485": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03348485,
+      "amount": 1.30160474
+    },
+    "bittrexBTC-ETH0.03348562": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03348562,
+      "amount": 0.18939452
+    },
+    "bittrexBTC-ETH0.03349855": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03349855,
+      "amount": 0.02608776
+    },
+    "bittrexBTC-ETH0.03349999": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03349999,
+      "amount": 0.01822733
+    },
+    "bittrexBTC-ETH0.0335": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0335,
+      "amount": 20.75412817
+    },
+    "bittrexBTC-ETH0.03350086": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03350086,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.03350119": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03350119,
+      "amount": 2.29353171
+    },
+    "bittrexBTC-ETH0.03351": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03351,
+      "amount": 0.14313042
+    },
+    "bittrexBTC-ETH0.03351121": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03351121,
+      "amount": 1.76109279
+    },
+    "bittrexBTC-ETH0.03351969": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03351969,
+      "amount": 0.91495043
+    },
+    "bittrexBTC-ETH0.03352": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03352,
+      "amount": 1
+    },
+    "bittrexBTC-ETH0.033526": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.033526,
+      "amount": 4.58344789
+    },
+    "bittrexBTC-ETH0.0335294": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.0335294,
+      "amount": 0.6362
+    },
+    "bittrexBTC-ETH0.03353": {
+      "exchange": "bittrex",
+      "market": "BTC-ETH",
+      "rate": 0.03353,
+      "amount": 0.204
+    }
+  }
+}
