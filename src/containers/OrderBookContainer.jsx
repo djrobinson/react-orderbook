@@ -4,7 +4,9 @@ import OrderBook from '../components/OrderBook'
 
 const mapStateToProps = state => {
   return {
-    filterId: state.filterId
+    filterId: state.filterId,
+    title: 'ETH-BTC',
+    orderbook: {}
   }
 }
 

@@ -5,7 +5,7 @@ import OrderBookContainer from './containers/OrderBookContainer'
 import configureStore from './store/configureStore'
 import rootReducer from './reducers'
 
-const store = configureStore({ tests: [], filterId: 23 })
+const store = configureStore()
 
 render(
   <Provider store={store}>

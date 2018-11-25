@@ -4,10 +4,10 @@ import Side from './Side'
 
 import './OrderBook.css'
 
-const OrderBook = ({ tests, filterId }) => {
+const OrderBook = ({ title, initialBook }) => {
   return (
     <Grid className="order-book">
-      <h1>Order Book</h1>
+      <h1>{title}</h1>
       <Row>
         <Col md={6}>
           <Side
