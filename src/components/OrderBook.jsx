@@ -1,13 +1,26 @@
 import React from 'react'
+import { Grid, Row, Col } from 'react-bootstrap'
+import Side from './Side'
+
+import './OrderBook.css'
 
 const OrderBook = ({ tests, filterId }) => {
   return (
-    <div className="OrderBook">
-      <h3>
-        Title Goes Here
-      </h3>
-      <p>{filterId}</p>
-    </div>
+    <Grid className="order-book">
+      <h1>Order Book</h1>
+      <Row>
+        <Col md={6}>
+          <Side
+            side="Bids"
+          />
+        </Col>
+        <Col md={6}>
+          <Side
+            side="Asks"
+          />
+        </Col>
+      </Row>
+    </Grid>
   )
 }
 

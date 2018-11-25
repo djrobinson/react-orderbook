@@ -4,13 +4,11 @@ import OrderBook from '../components/OrderBook'
 
 const mapStateToProps = state => {
   return {
-    tests: state.tests,
     filterId: state.filterId
   }
 }
 
 const mapDispatchToProps = dispatch => ({
-  test: id => dispatch(testAction(id)),
   changeFilter: filter => dispatch(changeFilterAction(filter))
 })
 
